@@ -1,2 +1,2 @@
-# python
-core and advance python code
+# Python
+Core And Advance Python Code
