@@ -1,0 +1,6 @@
+row=0
+column=0
+for row in range(5,0,-1):
+    for column in range(1,row+1):
+        print("*",end="")
+    print("\n")
