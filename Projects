@@ -1,0 +1,7 @@
+Projects_using_Python
+Developer: Mr. Arshad Khan
+This repository holds code for GUI application with Python (Ver.3.10). Tkinter module is used to build most of the GUI Applications. Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit. All the projects build in this repo are created as a part of Core and Advanced Python Traing Program. Following are the screenshots of GUI applications made during the training:
+
+i) Billing System for Cafe
+This GUI application assisted me in comprehending fundamental concepts of object-oriented interface in Python. Billing System for Cafe consists of three frames. First one is menu from which user can view the prices of each item present in Cafe. Second one consists of item list into which user can insert quantity of each item. Third frame generates and displays bill into which the totalled value of each item with respect to its quantity is considered. 
+
